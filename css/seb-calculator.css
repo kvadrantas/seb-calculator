@@ -1,0 +1,62 @@
+.calculator {
+    display: flex;
+    justify-content: center;
+}
+
+.calculator__container {
+    display: flex;
+    flex-direction: column;
+    row-gap: 15px;
+    padding: 15px;
+    border: 1px solid #cecdd2;
+    border-radius: 10px;
+    width: 100%;
+    max-width: 300px;
+    box-shadow: 0 0 4px 0 #00000050;
+}
+
+.calculator__pay-amout {
+    display: flex;
+    flex-direction: column;
+}
+
+.calculator__pay-amout label {
+    color: #676767;
+    font-size: 18px;
+    padding-left: 5px;
+}
+
+.calculator__pay-amout input {
+    border: 0;
+    border-bottom: 1.5px solid #0092E1;
+    font-size: 35px;
+    color: #0092E1;
+    letter-spacing: 3px;
+    padding: 7px 0 7px 5px;
+}
+
+.calculator__selected-currency select {
+    height: 60px;
+    width: 100%;
+    border: 1px solid #dfdfdf;
+    border-radius: 5px;
+    padding: 10px;
+    font-size: 20px;
+    color: #676767;
+}
+
+.calculator__button {
+    height: 50px;
+    font-size: 21px;
+    color: #fff;
+    background: #0092E1;
+    border: 0;
+    border-radius: 5px;
+}
+
+.calculator__buy-amount {
+    font-size: 25px;
+    color: #0092E1;
+    margin: 30px 0;
+    text-align: center;
+}
