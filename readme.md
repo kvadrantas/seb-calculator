@@ -16,7 +16,7 @@ Please check [Video](https://www.loom.com/share/b70d3765eb77495399d1a8f4157a99a0
 
 ## Instalation Instruction
 
-Please check [Video tutorial]() on how to install Currency Calculator.
+Please check [Video tutorial](https://www.loom.com/share/d492cd9d3824428fabac93682d801ee0) on how to install Currency Calculator.
 
 If you prefer text instructions, you can follow below guide:
 - in Command Prompt or Terminal open the folder (in your codebase) where you want to add Currency Calculator Code and run:
